@@ -1,3 +1,7 @@
+---
+description: Parses user input into an interval and prompt, converts the interval to a cron expression, and schedules a recurring task
+---
+
 <!--
 name: 'Skill: /loop slash command'
 description: Parses user input into an interval and prompt, converts the interval to a cron expression, and schedules a recurring task
